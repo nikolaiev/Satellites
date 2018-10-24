@@ -1,0 +1,7 @@
+img .satelite
+{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-image: url("../../assets/satellite.png");
+}
